@@ -1,8 +1,10 @@
 # Bank Customer Simulation
 
+
 >A simple simulation app standard banking transactions can be performed.
 
 >Project has random customer and process time.
+
 
 Example,
 1.	EFT (3 - 10 dk)
